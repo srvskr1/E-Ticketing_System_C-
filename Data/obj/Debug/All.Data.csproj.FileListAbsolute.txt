@@ -1,0 +1,5 @@
+E:\Study\C#\eticketing\Data\bin\Debug\Data.dll
+E:\Study\C#\eticketing\Data\bin\Debug\Data.pdb
+E:\Study\C#\eticketing\Data\obj\Debug\Data.dll
+E:\Study\C#\eticketing\Data\obj\Debug\Data.pdb
+E:\Study\C#\eticketing\Data\obj\Debug\All.Data.csprojResolveAssemblyReference.cache
